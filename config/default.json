@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb://localhost:27017/mern-app6",
+  "jwtSecret": "Yurchik",
+  "baseUrl": "http://localhost:5000"
+}
